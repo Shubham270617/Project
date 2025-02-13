@@ -7,13 +7,13 @@ import { FaChevronLeft, FaChevronRight } from "react-icons/fa";
 
 const Carousel = () => {
   const images = [
-    { src: "https://i.ytimg.com/vi/XeY-1MnOrTk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEQgUChlMA8=&rs=AOn4CLAA5pbhOtsQFHGhU6eTUMERB2eSZw", title: "श्री आयुदय उत्सव" },
-    { src: "https://i.ytimg.com/vi/XeY-1MnOrTk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEQgUChlMA8=&rs=AOn4CLAA5pbhOtsQFHGhU6eTUMERB2eSZw", title: "तेजस्विनी सम्मान" },
-    { src: "https://i.ytimg.com/vi/XeY-1MnOrTk/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEQgUChlMA8=&rs=AOn4CLAA5pbhOtsQFHGhU6eTUMERB2eSZw", title: "गौरव सम्मान" },
+    { src: "https://viprafoundation.in/wp-content/uploads/2022/07/shree-abhyuday-utasav-1920x700.jpg", title: "श्री आयुदय उत्सव" },
+    { src: "https://viprafoundation.in/wp-content/uploads/2023/06/VMS2023.jpg", title: "तेजस्विनी सम्मान" },
+    { src: "https://viprafoundation.in/wp-content/uploads/2022/07/bhagwan-parshuram-murti-ka-shilanyas.jpg", title: "गौरव सम्मान" },
   ];
 
   return (
-    <div className="relative w-screen max-w-6xl mx-auto bg-orange-600">
+    <div className="relative w-full max-w-6xl mx-auto">
       {/* Swiper Component */}
       <Swiper
         modules={[Navigation, Autoplay]}

@@ -59,7 +59,7 @@ const Footer = () => {
       {/* Bottom Text */}
       <div className="mt-10 border-t border-gray-700 pt-4 text-center text-gray-400">
         © 2023 Vipra Foundation. All Rights Reserved. Website Design & Developed by{" "}
-        <span className="text-white font-semibold">3i Planet</span>
+        <span className="text-white font-semibold">BrandFlu</span>
       </div>
     </footer>
   );

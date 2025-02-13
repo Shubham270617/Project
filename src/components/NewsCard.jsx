@@ -6,21 +6,21 @@ const articles = [
     id: 1,
     title:
       "राजस्थान के राज्यपाल महामहिम श्री हरिबाऊ बागड़े जी द्वारा दीप प्रज्वलन करके विप्र फाउंडेशन जोन 12C के विभागीय अधिवेशन का आयोजन महाराष्ट्र में",
-    image: "https://cdn.pixabay.com/photo/2024/07/23/03/03/ai-generated-8913942_640.jpg",
+    image: "https://i0.wp.com/viprafoundation.in/wp-content/uploads/2025/01/WhatsApp-Image-2025-01-20-at-00.53.48.jpeg?resize=1200%2C675&ssl=1",
     date: "January 27, 2025",
   },
   {
     id: 2,
     title:
       "गुवाहाटी में विप्र फाउंडेशन ने मिजोरम के राज्यपाल जनरल वी. के. सिंह का किया सम्मान",
-    image: "https://cdn.pixabay.com/photo/2024/07/23/03/03/ai-generated-8913942_640.jpg",
+    image: "https://i0.wp.com/viprafoundation.in/wp-content/uploads/2025/01/vipra-foundation.webp?w=526&ssl=1",
     date: "January 16, 2025",
   },
   {
     id: 3,
     title:
       "उत्तर बंगाल, बिहार, सिक्किम, असम, भूटान, नेपाल, बांग्लादेश की सीमाओं पर बसा सिलीगुड़ी कोलकाता के बाद प्रदेश का सबसे बड़ा शहर है।",
-    image: "https://cdn.pixabay.com/photo/2024/07/23/03/03/ai-generated-8913942_640.jpg",
+    image: "https://i0.wp.com/viprafoundation.in/wp-content/uploads/2024/12/469121741_637283258621996_9044306697773470575_n.jpg?w=526&ssl=1",
     date: "December 25, 2024",
   },
 
@@ -28,21 +28,21 @@ const articles = [
     id: 1,
     title:
       "राजस्थान के राज्यपाल महामहिम श्री हरिबाऊ बागड़े जी द्वारा दीप प्रज्वलन करके विप्र फाउंडेशन जोन 12C के विभागीय अधिवेशन का आयोजन महाराष्ट्र में",
-    image: "https://cdn.pixabay.com/photo/2024/07/23/03/03/ai-generated-8913942_640.jpg",
+    image: "https://i0.wp.com/viprafoundation.in/wp-content/uploads/2024/12/471544664_652817080401947_6325394965762920970_n.jpg?w=526&ssl=1",
     date: "January 27, 2025",
   },
   {
     id: 2,
     title:
       "गुवाहाटी में विप्र फाउंडेशन ने मिजोरम के राज्यपाल जनरल वी. के. सिंह का किया सम्मान",
-    image: "https://cdn.pixabay.com/photo/2024/07/23/03/03/ai-generated-8913942_640.jpg",
+    image: "https://i0.wp.com/viprafoundation.in/wp-content/uploads/2024/12/466673815_624731956543793_497210323435072236_n.jpg?w=526&ssl=1",
     date: "January 16, 2025",
   },
   {
     id: 3,
     title:
       "उत्तर बंगाल, बिहार, सिक्किम, असम, भूटान, नेपाल, बांग्लादेश की सीमाओं पर बसा सिलीगुड़ी कोलकाता के बाद प्रदेश का सबसे बड़ा शहर है।",
-    image: "https://cdn.pixabay.com/photo/2024/07/23/03/03/ai-generated-8913942_640.jpg",
+    image: "https://i0.wp.com/viprafoundation.in/wp-content/uploads/2024/12/465795207_617696457247343_2424962424600856211_n-1.jpg?w=526&ssl=1",
     date: "December 25, 2024",
   },
 ];

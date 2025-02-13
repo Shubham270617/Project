@@ -2,21 +2,21 @@ import { FaUsers, FaHandshake, FaPeopleCarry } from "react-icons/fa";
 
 const features = [
   {
-    icon: <FaUsers className="text-red-500 text-5xl" />,
+    icon: <FaUsers className="text-orange-500 text-5xl" />,
     title: "राष्ट्रीय एकता",
     description:
       "सब साधन से रहे समुन्नत, भगवन देश हमारा। देव प्रज्ञा से पूरित विप्र समाज ने अपने दिंगंत भेदी तप व चिंतन से हमारे दिव्य राष्ट्र।",
     bgColor: "bg-red-50",
   },
   {
-    icon: <FaHandshake className="text-red-500 text-5xl" />,
+    icon: <FaHandshake className="text-orange-500 text-5xl" />,
     title: "सामाजिक समरसता",
     description:
       "जातीय संकीर्णता का ब्राह्मण समाज में कभी भी कोई स्थान नहीं रहा है। हम सर्वदा ही विशाल उदारता के पक्षधर रहे हैं।",
     bgColor: "bg-yellow-50",
   },
   {
-    icon: <FaPeopleCarry className="text-red-500 text-5xl" />,
+    icon: <FaPeopleCarry className="text-orange-500 text-5xl" />,
     title: "स्वजातीय गतिशीलता",
     description:
       "अपनी परम्परा का ज्ञान, जातीय चेतना और आत्मविश्वषण की त्रिवेणी समाज में प्रवाहित होती रहती है तभी समाज साधातु तीर्थराज की।",
@@ -37,7 +37,7 @@ const FeatureCards = () => {
             {feature.icon}
             <h3 className="text-xl font-bold mt-4">{feature.title}</h3>
             <p className="text-gray-700 mt-2">{feature.description}</p>
-            <button className="mt-4 bg-red-600 text-white py-2 px-4 rounded-lg flex items-center space-x-2 hover:bg-red-700">
+            <button className="mt-4 bg-orange-600 text-white py-2 px-4 rounded-lg flex items-center space-x-2 hover:bg-red-700">
               ➝ <span>अधिक देखें</span>
             </button>
           </div>

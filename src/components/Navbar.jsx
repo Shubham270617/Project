@@ -9,16 +9,17 @@ const Navbar = () => {
   return (
     <div>
       {/* Top Red Banner */}
-      <div className="bg-orange-600 text-white text-center py-2 text-sm font-medium">
+      <div className="bg-orange-600 text-white text-center py-2 text-sm font-medium ">
         राष्ट्र एवं समाज को समर्पित ब्राह्मण समाज के वैश्विक संगठन विप्र फाउंडेशन की वेबसाइट में आपका स्वागत है।
       </div>
 
       {/* Main Navbar */}
-      <nav className="bg-white shadow-md py-3 ">
+      <nav className="bg-white shadow-md py-3 position-sticky top-0 z-50">
+
         <div className="container mx-auto flex justify-between items-center">
           {/* Logo */}
           <div className="flex items-center space-x-3">
-            <img src={Vipra} alt="Vipra Foundation" className="h-20" />
+            <img src={Vipra} alt="Vipra Foundation" className="h-15" />
             <span className="text-xl font-bold">Akhil Vipra Kalyanam</span>
           </div>
 
