@@ -10,7 +10,7 @@ const Navbar = () => {
     <div>
       {/* Top Red Banner */}
       <div className="bg-orange-600 text-white text-center py-2 text-sm font-medium ">
-        राष्ट्र एवं समाज को समर्पित ब्राह्मण समाज के वैश्विक संगठन विप्र फाउंडेशन की वेबसाइट में आपका स्वागत है।
+        राष्ट्र एवं समाज को समर्पित ब्राह्मण समाज के वैश्विक संगठन अखिल विप्र कल्याण फाउंडेशन की वेबसाइट में आपका स्वागत है।
       </div>
 
       {/* Main Navbar */}
@@ -78,7 +78,7 @@ const Navbar = () => {
 
           {/* Join Button */}
           <button className="bg-blue-500 text-white px-5 py-2 rounded-lg hover:bg-blue-600">
-            ज्वाइन विप्रा
+            ज्वाइन अखिल
           </button>
         </div>
       </nav>

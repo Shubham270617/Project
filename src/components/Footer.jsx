@@ -9,22 +9,22 @@ const Footer = () => {
         <div>
           <h3 className="text-lg font-bold mb-3">हमारे कार्यालय</h3>
           <p className="font-semibold">केन्द्रीय कार्यालय</p>
-          <p className="text-gray-400 mb-2">पश्चिम बंगाल</p>
+          <p className="text-gray-400 mb-2">पाटलिपुत्र</p>
           <p className="font-semibold">क्षेत्रीय कार्यालय</p>
-          <p className="text-gray-400 mb-2">उदयपुर, जयपुर, सूरत</p>
+          <p className="text-gray-400 mb-2">पास में, दृष्टि, देखभाल</p>
           <p className="font-semibold">ज़ोनल कार्यालय</p>
-          <p className="text-gray-400">बीकानेर, रायपुर, नागपुर, दिल्ली</p>
+          <p className="text-gray-400">पाटलिपुत्र,पटना, बिहार 800013</p>
         </div>
 
         {/* Contact Info */}
         <div>
           <h3 className="text-lg font-bold mb-3">संपर्क सूत्र</h3>
           <p className="font-semibold">फ़ोन नंबर</p>
-          <p className="text-gray-400 mb-2">+91 8442925500</p>
-          <p className="text-gray-400 mb-2">+91 8017125500</p>
+          <p className="text-gray-400 mb-2">+91 97714 38740</p>
+          {/* <p className="text-gray-400 mb-2">+91 8017125500</p> */}
           <p className="font-semibold">ई-मेल आईडी</p>
-          <p className="text-gray-400">viprafoundation@gmail.com</p>
-          <p className="text-gray-400">info@vifa.in</p>
+          <p className="text-gray-400">akhilviprakalyanam@gmail.com</p>
+          {/* <p className="text-gray-400">info@vifa.in</p> */}
         </div>
 
         {/* Locations */}
@@ -58,8 +58,8 @@ const Footer = () => {
 
       {/* Bottom Text */}
       <div className="mt-10 border-t border-gray-700 pt-4 text-center text-gray-400">
-        © 2023 Vipra Foundation. All Rights Reserved. Website Design & Developed by{" "}
-        <span className="text-white font-semibold">BrandFlu</span>
+        © 2023 Vipra Foundation. All Rights Reserved. Website Design & Developed
+        by <span className="text-white font-semibold">BrandFlu</span>
       </div>
     </footer>
   );
